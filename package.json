@@ -1,22 +1,13 @@
 {
-    "name": "pixel-pro-ui-kit",
-    "version": "5.0.0",
-    "description": "Pixel Pro - Premium Bootstrap 5 UI Kit created by Themesberg",
+    "name": "swipe-mobile-app-one-page-bootstrap-5-template",
+    "version": "1.0.0",
+    "description": "Swipe - Mobile App One Page Bootstrap 5 Template",
     "main": "gulpfile.js",
     "author": "Themesberg",
-    "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "uikit",
-        "bootstrap",
-        "accessible",
-        "bootstrap 5"
-    ],
-    "homepage": "https://themesberg.com/product/ui-kit/pixel-pro-premium-bootstrap-5-ui-kit",
+    "keywords": ["bootstrap", "bootstrap 5", "one page bootstrap 5", "mobile app bootstrap 5", "css", "html", "vanilla javascript", "themesberg"],
+    "homepage": "https://themesberg.com/product/bootstrap/swipe-free-mobile-app-one-page-bootstrap-5-template",
     "bugs": {
-        "email": "zoltan@themesberg.com"
+        "url": "https://github.com/themesberg/swipe-one-page-bootstrap-5-template/issues"
     },
     "license": "https://themesberg.com/licensing",
     "devDependencies": {
