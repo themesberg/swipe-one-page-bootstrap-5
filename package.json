@@ -1,0 +1,56 @@
+{
+    "name": "pixel-pro-ui-kit",
+    "version": "5.0.0",
+    "description": "Pixel Pro - Premium Bootstrap 5 UI Kit created by Themesberg",
+    "main": "gulpfile.js",
+    "author": "Themesberg",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "uikit",
+        "bootstrap",
+        "accessible",
+        "bootstrap 5"
+    ],
+    "homepage": "https://themesberg.com/product/ui-kit/pixel-pro-premium-bootstrap-5-ui-kit",
+    "bugs": {
+        "email": "zoltan@themesberg.com"
+    },
+    "license": "https://themesberg.com/licensing",
+    "devDependencies": {
+        "browser-sync": "2.26.7",
+        "del": "4.1.1",
+        "gulp": "4.0.2",
+        "gulp-autoprefixer": "6.1.0",
+        "gulp-clean-css": "4.2.0",
+        "gulp-cssbeautify": "1.0.1",
+        "gulp-file-include": "2.1.0",
+        "gulp-header": "2.0.7",
+        "gulp-htmlmin": "5.0.1",
+        "gulp-npm-dist": "^1.0.3",
+        "gulp-plumber": "1.2.1",
+        "gulp-rename": "1.4.0",
+        "gulp-sass": "4.0.2",
+        "gulp-sourcemaps": "2.6.5",
+        "gulp-uglify": "3.0.2",
+        "gulp-wait": "0.0.2",
+        "merge-stream": "2.0.0"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "5.11.2",
+        "@glidejs/glide": "^3.4.1",
+        "bootstrap": "5.0.0-alpha1",
+        "countup.js": "^2.0.5",
+        "headroom.js": "0.10.3",
+        "onscreen": "1.3.4",
+        "popper.js": "1.16.0",
+        "prismjs": "1.17.1",
+        "smooth-scroll": "^16.1.0",
+        "sticky-sidebar": "3.3.1",
+        "vanillajs-datepicker": "^1.0.3",
+        "vivus": "^0.4.5",
+        "waypoints": "4.0.1"
+    }
+}

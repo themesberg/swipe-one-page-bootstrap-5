@@ -1,0 +1,22 @@
+/**
+ * = Input groups
+ */
+
+ .input-group {
+	border-radius: $input-border-radius;
+	transition: $transition-base;
+
+	.form-control {
+		box-shadow: none;
+
+		&:focus {
+			box-shadow: none;
+		}
+
+		&.is-invalid{
+			border-top-right-radius: $border-radius;
+    		border-bottom-right-radius: $border-radius;
+		}
+	}
+
+}

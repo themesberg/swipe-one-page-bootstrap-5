@@ -1,0 +1,64 @@
+/**
+ * = Icon boxes
+ */
+
+.icon {
+	text-align: center;
+	display: inline-flex;
+	@include align-items(center);
+	@include justify-content(center);
+
+	span, svg {
+		font-size: $icon-size;
+	}
+
+	&.icon-xs{
+		span, svg {
+			font-size: $icon-size-xs;
+		}
+	}
+
+	&.icon-sm{
+		span, svg {
+			font-size: $icon-size-sm;
+		}
+	}
+
+	&.icon-md{
+		span, svg {
+			font-size: $icon-size-md;
+		}
+	}
+
+	&.icon-lg{
+		span, svg, ion-icon {
+			font-size: $icon-size-xl;
+		}
+	}
+
+	&.icon-xl{
+		span, svg {
+			font-size: $icon-size-xxl;
+		}
+	}
+
+}
+
+ 
+//Colors for icons
+@each $color, $value in $theme-colors {
+	.icon-shape-#{$color} {
+		@include icon-shape-variant($value);
+	}
+	.icon-#{$color} {
+		span{
+			color:$value;
+		}
+	}
+
+	.fill-#{$color}{
+		fill:$value;
+	}
+}
+
+
