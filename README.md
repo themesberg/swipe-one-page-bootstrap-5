@@ -1,4 +1,4 @@
-# [Swipe - Mobile App One Page Bootstrap 5 Template](https://demo.themesberg.com/swipe/)
+# [Swipe - One Page Bootstrap 5 Template for Mobile Applications](https://demo.themesberg.com/swipe/)
 
 ![Swipe - Mobile App One Page Bootstrap 5 Template Thumbnail](https://themesberg.s3.us-east-2.amazonaws.com/public/products/swipe/swipe-thumbnail.jpg "Swipe - Mobile App One Page Bootstrap 5 Template Thumbnail")
 
