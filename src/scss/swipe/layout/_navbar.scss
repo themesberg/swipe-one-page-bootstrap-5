@@ -153,6 +153,7 @@
 
     img {
         height: 37px;
+        margin-top: -10px;
         max-width: none;
     }
 }
@@ -256,7 +257,7 @@
             .dropdown-item,
             .list-group-item {
                 &, &:focus, &.active, &:hover {
-                    color: $tertiary;
+                    color: $secondary;
                     background: transparent;
                 }
 
@@ -463,6 +464,7 @@
 
         .collapse-brand img {
             height: 37px;
+            margin-top: -10px;
         }
 
         .collapse-close { 
