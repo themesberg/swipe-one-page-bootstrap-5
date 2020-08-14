@@ -1,11 +1,11 @@
 /*
 
 =========================================================
-* Pixel Pro Bootstrap 5 UI Kit
+* Swipe - Mobile App One Page Bootstrap 5 Template
 =========================================================
 
-* Product Page: https://themesberg.com/product/ui-kit/pixel-pro-premium-bootstrap-5-ui-kit
-* Copyright 2019 Themesberg (https://www.themesberg.com)
+* Product Page: https://themesberg.com/product/bootstrap/swipe-free-mobile-app-one-page-bootstrap-5-template
+* Copyright 2020 Themesberg (https://www.themesberg.com)
 
 * Coded by https://themesberg.com
 
@@ -22,26 +22,26 @@
 @import "../../node_modules/bootstrap/scss/functions";
 
 // Change variables here
-@import "pixel/variables";
+@import "swipe/variables";
 
 // Bootstrap
 @import "../../node_modules/bootstrap/scss/bootstrap";
 
 // Vendor
-@import "pixel/vendor";
+@import "swipe/vendor";
 
 // Pixel mixins & functions
-@import "pixel/mixins";
-@import "pixel/functions";
+@import "swipe/mixins";
+@import "swipe/functions";
 
 // Utilities
-@import "pixel/reboot";
-@import "pixel/utilities";
+@import "swipe/reboot";
+@import "swipe/utilities";
 
 // Layout
-@import "pixel/layout";
+@import "swipe/layout";
 
 // Components
-@import "pixel/components";
+@import "swipe/components";
 
 // write your custom styles here!

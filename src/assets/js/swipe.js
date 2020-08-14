@@ -1,10 +1,10 @@
 /*
 
 =========================================================
-* Pixel Pro Bootstrap 5 UI Kit
+* Swipe - Mobile App One Page Bootstrap 5 Template
 =========================================================
 
-* Product Page: https://themesberg.com/product/ui-kit/pixel-pro-premium-bootstrap-5-ui-kit
+* Product Page: https://themesberg.com/product/bootstrap/swipe-free-mobile-app-one-page-bootstrap-5-template
 * Copyright 2019 Themesberg (https://www.themesberg.com)
 
 * Coded by https://themesberg.com

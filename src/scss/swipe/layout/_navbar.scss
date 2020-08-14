@@ -256,7 +256,7 @@
             .dropdown-item,
             .list-group-item {
                 &, &:focus, &.active, &:hover {
-                    color: $value;
+                    color: $tertiary;
                     background: transparent;
                 }
 

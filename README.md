@@ -1,30 +1,8 @@
-# [Pixel Pro Bootstrap UI Kit](https://demo.themesberg.com/pixel-pro/)
+# [Swipe - Mobile App One Page Bootstrap 5 Template](https://demo.themesberg.com/swipe/)
 
-![alt text](https://themesberg.s3.us-east-2.amazonaws.com/public/products/pixel-pro/pixel-pro-preview.jpg "Pixel Pro Bootstrap UI Kit")
+![Swipe - Mobile App One Page Bootstrap 5 Template Thumbnail](https://themesberg.s3.us-east-2.amazonaws.com/public/products/pixel-pro/pixel-pro-preview.jpg "Swipe - Mobile App One Page Bootstrap 5 Template Thumbnail")
 
-Pixel is a accessibility oriented, fully responsive, modern User Interface Kit that will help you build creative and professional websites. Use our components and sections, switch some Sass variables to build and arrange pages to best suit your needs.
-
-**Over 1k Components**
-
-Buttons, timelines, blog cards, profile cards, tables, accordions... you name it and we have it.
-
-Our components are a perfect extension of Bootstrap 4 so you will find it very easy to work with our code if you're familiar with their class names and styles. Furthermore, we've made sure to that all components are well documented.
-
-Checkout all [all components here](https://demo.themesberg.com/pixel-pro/html/components/all.html).
-
-**50+ Sections**
-
-Sections are made up of components. These are the big boys and they include the navigation bars, footers, about sections, contact sections and many more.
-
-We believe that our navigation bars are one of the most customizable ones out there. You can change the whole color scheme just by changing a letter amongst the classes. Why not check them out under the "Sections" category?
-
-**17 Example Pages**
-
-These are the last building blocks to build an awesome website. We made sure to offer you a few example pages to prove how useful and great our UI Kit is.
-
-**Complete Documentation**
-
-Each component, plugin and the general workflow is well documented. Check out the [online documentation for Pixel Pro](https://themesberg.com/docs/pixel-bootstrap/getting-started/overview/).
+Swipe is a simple and beautiful mobile application one page Bootstrap 5 Template that you can use to showcase your mobile application.
 
 ## Workflow
 
