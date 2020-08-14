@@ -87,19 +87,9 @@ At present, we officially aim to support the last two versions of the following 
 - License Agreement: <https://themesberg.com/licensing>
 - Support: <https://themesberg.com/contact>
 
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for Swipe. Here are some advices for our users that want to report an issue:
-
-1. Make sure that you are using the latest version of the Argon Design System. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/).
-2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
-3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
-
-
 ## Technical Support or Questions
 
 If you have questions or need help integrating the product please [contact us](https://themesberg.com/contact) instead of opening an issue.
-
 
 ## Licensing
 
