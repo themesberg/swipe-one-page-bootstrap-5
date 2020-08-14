@@ -9,7 +9,7 @@
     "bugs": {
         "url": "https://github.com/themesberg/swipe-one-page-bootstrap-5-template/issues"
     },
-    "license": "https://themesberg.com/licensing",
+    "license": "https://github.com/themesberg/swipe-one-page-bootstrap-5-template/blob/master/LICENSE.md",
     "devDependencies": {
         "browser-sync": "2.26.7",
         "del": "4.1.1",
