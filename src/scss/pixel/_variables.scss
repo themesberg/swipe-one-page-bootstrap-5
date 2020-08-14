@@ -66,7 +66,7 @@ $colors: (
 // Color scheme
 $primary:     #418B78;
 $secondary:   #183B56;
-$tertiary:    #DBB68F;
+$tertiary:    #FC6666;
 
 // Mobile landing color scheme
 $primary-app:     #EBF4F6;
@@ -354,7 +354,7 @@ $body-text-align:           null;
 //
 // Style anchor elements.
 
-$link-color:                              $primary;
+$link-color:                              $secondary;
 $link-decoration:                         none;
 $link-hover-color:                        darken($link-color, 15%);
 $link-hover-decoration:                   null;

@@ -98,6 +98,20 @@
     }
 }
 
+.btn-download-app {
+
+	@include media-breakpoint-down(md) {
+		.icon-brand span,
+		.icon-brand i {
+			font-size: 1.25rem;
+		}
+    }
+    
+    @include media-breakpoint-down(sm) {
+        font-size: .8rem;
+    }
+}
+
 // Set color of theme buttons
 @each $color, $value in $theme-colors {
     .btn-#{$color}{
