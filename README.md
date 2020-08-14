@@ -26,15 +26,14 @@ This product is built using the following widely used technologies:
 
 ## Demo
 
--   [Live Preview](https://demo.themesberg.com/pixel-pro/)
--   [Product Page](https://themesberg.com/product/ui-kit/pixel-pro-premium-bootstrap-5-ui-kit)
+-   [Live Preview](http://demo.themesberg.com/swipe)
+-   [Product Page](https://themesberg.com/product/bootstrap/swipe-free-mobile-app-one-page-bootstrap-5-template)
 
 ## Quick start
 
-1. Purchase from [Themesberg](https://themesberg.com/product/ui-kit/pixel-pro-premium-bootstrap-5-ui-kit)
-2. Download the project's zip
-3. Make sure you have Node locally installed.
-4. Download Gulp Command Line Interface to be able to use gulp in your Terminal.
+1. Create an account and download from or clone this repository [Themesberg](https://themesberg.com/product/bootstrap/swipe-free-mobile-app-one-page-bootstrap-5-template)
+2. Make sure you have Node locally installed.
+3. Download Gulp Command Line Interface to be able to use gulp in your Terminal.
 
 ```
 npm install gulp-cli -g
@@ -46,7 +45,7 @@ npm install gulp-cli -g
 npm install
 ```
 
-6. Run gulp in the `pixel/` folder to serve the project files using BrowserSync. Running gulp will compile the theme and open `/index.html` in your main browser.
+6. Run gulp in the `swipe/` folder to serve the project files using BrowserSync. Running gulp will compile the theme and open `/index.html` in your main browser.
 
 ```
 gulp
@@ -76,9 +75,6 @@ gulp build:dist
 
 This will generate a folder `dist` which will have minified CSS, Html and Javascript.
 
-## Documentation
-The documentation for Pixel Pro Bootstrap UI Kit is hosted on our [website](https://themesberg.com/docs/pixel-bootstrap/getting-started/overview/).
-
 ## Browser Support
 
 At present, we officially aim to support the last two versions of the following browsers:
@@ -86,16 +82,14 @@ At present, we officially aim to support the last two versions of the following 
 <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
 
 ## Resources
-- Demo: <https://demo.themesberg.com/pixel-pro/index.html>
-- Download Page: <https://themesberg.com/product/ui-kit/pixel-pro-premium-bootstrap-5-ui-kit>
-- Documentation: <https://themesberg.com/docs/pixel-bootstrap/getting-started/overview/>
+- Demo: <http://demo.themesberg.com/swipe>
+- Download Page: <https://themesberg.com/product/bootstrap/swipe-free-mobile-app-one-page-bootstrap-5-template>
 - License Agreement: <https://themesberg.com/licensing>
 - Support: <https://themesberg.com/contact>
-- Issues: [Github Issues Page](https://github.com/themesberg/pixel-pro-bootstrap-ui-kit/issues)
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for Pixel Pro Bootstrap UI Kit. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for Swipe. Here are some advices for our users that want to report an issue:
 
 1. Make sure that you are using the latest version of the Argon Design System. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
