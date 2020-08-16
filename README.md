@@ -19,7 +19,6 @@ This product is built using the following widely used technologies:
 * [Documentation](#documentation)
 * [Browser Support](#browser-support)
 * [Resources](#resources)
-* [Reporting Issues](#reporting-issues)
 * [Technical Support or Questions](#technical-support-or-questions)
 * [Licensing](#licensing)
 * [Useful Links](#useful-links)
@@ -31,7 +30,7 @@ This product is built using the following widely used technologies:
 
 ## Quick start
 
-1. Create an account and download from or clone this repository [Themesberg](https://themesberg.com/product/bootstrap/swipe-free-mobile-app-one-page-bootstrap-5-template)
+1. Create an account and download from [Themesberg](https://themesberg.com/product/bootstrap/swipe-free-mobile-app-one-page-bootstrap-5-template) or clone this repository
 2. Make sure you have Node locally installed.
 3. Download Gulp Command Line Interface to be able to use gulp in your Terminal.
 
