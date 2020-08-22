@@ -4,7 +4,16 @@
     "description": "Swipe - Mobile App One Page Bootstrap 5 Template",
     "main": "gulpfile.js",
     "author": "Themesberg",
-    "keywords": ["bootstrap", "bootstrap 5", "one page bootstrap 5", "mobile app bootstrap 5", "css", "html", "vanilla javascript", "themesberg"],
+    "keywords": [
+        "bootstrap",
+        "bootstrap 5",
+        "one page bootstrap 5",
+        "mobile app bootstrap 5",
+        "css",
+        "html",
+        "vanilla javascript",
+        "themesberg"
+    ],
     "homepage": "https://themesberg.com/product/bootstrap/swipe-free-mobile-app-one-page-bootstrap-5-template",
     "bugs": {
         "url": "https://github.com/themesberg/swipe-one-page-bootstrap-5-template/issues"
