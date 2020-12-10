@@ -1,7 +1,3 @@
-<a href="https://themesberg.com/cyber-monday?utm_medium=social&utm_source=github&utm_campaign=cm-readme-2020">
-<img border="0" alt="Themesberg Cyber Monday Offer 2020" src="https://themesberg.s3.us-east-2.amazonaws.com/public/campaigns/cyber-monday/2020/thumbnail.png" >
-</a>
-
 # [Swipe - One Page Bootstrap 5 Template for Mobile Applications](https://demo.themesberg.com/swipe/)
 
 ![Swipe - Mobile App One Page Bootstrap 5 Template Thumbnail](https://themesberg.s3.us-east-2.amazonaws.com/public/products/swipe/swipe-thumbnail.jpg "Swipe - Mobile App One Page Bootstrap 5 Template Thumbnail")
