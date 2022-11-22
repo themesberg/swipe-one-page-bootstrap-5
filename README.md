@@ -1,3 +1,6 @@
+# [🔥 Black Friday 2022 - Get Bootstrap 5 Templates for 90% Off](https://themesberg.com/black-friday)
+[![Themesberg Black Friday 2022](https://themesberg.com/img/campaigns/black-friday/og-image.png)](https://themesberg.com/black-friday)
+
 # [Swipe - One Page Bootstrap 5 Template for Mobile Applications](https://demo.themesberg.com/swipe/)
 
 ![Swipe - Mobile App One Page Bootstrap 5 Template Thumbnail](https://themesberg.s3.us-east-2.amazonaws.com/public/products/swipe/swipe-thumbnail.jpg "Swipe - Mobile App One Page Bootstrap 5 Template Thumbnail")
